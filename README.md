@@ -1,0 +1,1 @@
+This is a simple random number guessing game I made while taking the JavaScript Basics course on Treehouse
